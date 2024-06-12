@@ -178,4 +178,7 @@ height:250px;
             header ul{
                 display: none;
             }
+.homepage img{
+    height: 120px;
+}
 }
